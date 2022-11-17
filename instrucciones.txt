@@ -1,0 +1,3 @@
+1- hacer fork del proyecto
+2- en el archivo index.html, encotrara una talba debe agregar su
+nombre, apellido y nombre de usuario en GitHub
